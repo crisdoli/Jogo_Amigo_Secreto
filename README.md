@@ -18,8 +18,8 @@ Abaixo descrevo algumas das funcionalidades que o projeto realiza.
 > - Sorteio automático de pares de Amigo Secreto de forma justa.
 > - Exibição dos resultados de forma clara e segura;
 
-
-
+## Realizado por:
+Cristiano de Oliveira - [LinkedIn](https://www.linkedin.com/in/cristiano-oliveira-88673423/)
 
 
 
